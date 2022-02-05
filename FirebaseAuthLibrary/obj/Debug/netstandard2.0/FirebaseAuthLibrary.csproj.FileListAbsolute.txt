@@ -1,0 +1,9 @@
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\obj\Debug\netstandard2.0\FirebaseAuthLibrary.AssemblyInfoInputs.cache
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\obj\Debug\netstandard2.0\FirebaseAuthLibrary.AssemblyInfo.cs
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\obj\Debug\netstandard2.0\FirebaseAuthLibrary.csproj.CoreCompileInputs.cache
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\bin\Debug\netstandard2.0\FirebaseAuthLibrary.deps.json
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\bin\Debug\netstandard2.0\FirebaseAuthLibrary.dll
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\bin\Debug\netstandard2.0\FirebaseAuthLibrary.pdb
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\obj\Debug\netstandard2.0\FirebaseAuthLibrary.dll
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\obj\Debug\netstandard2.0\FirebaseAuthLibrary.pdb
+D:\FirebaseAuthLibrary\FirebaseAuthLibrary\obj\Debug\netstandard2.0\FirebaseAuthLibrary.csprojAssemblyReference.cache
